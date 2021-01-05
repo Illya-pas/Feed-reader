@@ -1,0 +1,8 @@
+export const PROXY_URL = 'https://cors-anywhere.herokuapp.com/'
+export const CREATE_ARTICLE = 'CREATE_ARTICLE'
+export const FETCH_ARTICLES = 'FETCH_ARTICLES'
+export const HIDE_LOADER = 'HIDE_LOADER'
+export const SHOW_ALERT = 'SHOW_ALERT'
+export const HIDE_ALERT = 'HIDE_ALERT'
+export const SET_USER_DATA = 'SET_USER_DATA'
+export const FETCH_USER_ARTICLES = 'FETCH_USER_ARTICLES'
