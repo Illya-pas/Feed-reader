@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Illya-pas/FeedReader/static/css/main.a3d088e0.chunk.css",
+    "main.js": "/Illya-pas/FeedReader/static/js/main.f38e3110.chunk.js",
+    "main.js.map": "/Illya-pas/FeedReader/static/js/main.f38e3110.chunk.js.map",
+    "runtime-main.js": "/Illya-pas/FeedReader/static/js/runtime-main.fe58089a.js",
+    "runtime-main.js.map": "/Illya-pas/FeedReader/static/js/runtime-main.fe58089a.js.map",
+    "static/js/2.4dd80355.chunk.js": "/Illya-pas/FeedReader/static/js/2.4dd80355.chunk.js",
+    "static/js/2.4dd80355.chunk.js.map": "/Illya-pas/FeedReader/static/js/2.4dd80355.chunk.js.map",
+    "static/js/3.6175b7d8.chunk.js": "/Illya-pas/FeedReader/static/js/3.6175b7d8.chunk.js",
+    "static/js/3.6175b7d8.chunk.js.map": "/Illya-pas/FeedReader/static/js/3.6175b7d8.chunk.js.map",
+    "index.html": "/Illya-pas/FeedReader/index.html",
+    "static/css/main.a3d088e0.chunk.css.map": "/Illya-pas/FeedReader/static/css/main.a3d088e0.chunk.css.map",
+    "static/js/2.4dd80355.chunk.js.LICENSE.txt": "/Illya-pas/FeedReader/static/js/2.4dd80355.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe58089a.js",
+    "static/js/2.4dd80355.chunk.js",
+    "static/css/main.a3d088e0.chunk.css",
+    "static/js/main.f38e3110.chunk.js"
+  ]
+}
