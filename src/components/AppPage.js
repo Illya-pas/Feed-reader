@@ -1,7 +1,6 @@
 import React from 'react'
-import {connect} from 'react-redux'
 import ArticleForm from './ArticleForm'
-import Articles from './Articles'
+import {Articles} from './Articles'
 import FetchedArticles from './FetchedArticles'
 import {LoginButton} from './LoginButton'
 

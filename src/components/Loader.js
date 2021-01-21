@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const Loader = () => (
-	<div className="spinner-border text-primary" role="status">
+export const Loader = ({size}) => (
+	<div className="spinner-border text-primary" style={{'height':size, 'width':size}} role="status">
 	  <span className="sr-only">Loading...</span>
 	</div>
 )

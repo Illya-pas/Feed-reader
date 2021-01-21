@@ -14,7 +14,7 @@ export default () => {
 	}, [])
 
 	if (loading) {
-		return <Loader/>
+		return <Loader size={40}/>
 	}
 
 	if (!fetchedArticles.length) {
